@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4a19d3afd61fa85b",
+    "type": "split",
+    "children": [
+      {
+        "id": "208295057cd8e8c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6001a20eb200baa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ПЕРВАЯ. ПРАВИЛА ЦЕЛОСТНОСТИ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "160444f5c9979ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "069e1eab6f015b34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "081befc35505f7d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c69ffda8bd92ea7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f8e4b6e6eb57cd0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8cd3581501f65a96",
+    "type": "split",
+    "children": [
+      {
+        "id": "842fcdcbd035fb78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4df49fda4190286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ПЕРВАЯ. ПРАВИЛА ЦЕЛОСТНОСТИ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8cdcd13721ad4ffe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ПЕРВАЯ. ПРАВИЛА ЦЕЛОСТНОСТИ.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b07023273539c51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a47fc9004d4a39d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ПЕРВАЯ. ПРАВИЛА ЦЕЛОСТНОСТИ.md"
+              }
+            }
+          },
+          {
+            "id": "6b8769781f0e14cf",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "8cf12de7ddefb1a7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "homepage:Open homepage": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f6001a20eb200baa",
+  "lastOpenFiles": [
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ВВЕДЕНИЕ.md",
+    "Education/Книги/2024/Иди туда, где страшно/Иди туда, где страшно.md",
+    "Notes.md",
+    "Programming/Flutter/Frontend/CustomPainter.md",
+    "Cache/1024px-Degree-Radian_Conversion.svg.png",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ПЕРВАЯ. ПРАВИЛА ЦЕЛОСТНОСТИ.md",
+    "Education/Подкасты/2024/Арсен Маркарян - тейки из видео.md",
+    "Education/Подкасты/2024/Видео Туаева Продуктивность.md",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ВТОРАЯ. ПРАВИЛА ЛИДЕРСТВА.md",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ПРИЛОЖЕНИЕ.md",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ЭПИЛОГ.md",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ЧЕТВЕРТАЯ. ПРАВИЛО РОСТА.md",
+    "Education/Книги/2024/Иди туда, где страшно/Содержание/ЧАСТЬ ТРЕТЬЯ. ПРАВИЛА ПЕРЕМЕН.md",
+    "Education/Книги/2024/Иди туда, где страшно",
+    "Education/Подкасты/2024",
+    "Home.md",
+    "Education/Подкасты",
+    "Programming/Flutter/Frontend/Поисковая система.md",
+    "Programming/Flutter/Frontend/BottomNavigationBar.md",
+    "Education/Ежедневник/2024/Июнь.md",
+    "Education/Выполненные цели/Сортировка/Цели на год.md",
+    "Programming/Projects/Бюджет для граждан/Задумки по дизайну.md",
+    "Programming/Flutter/Frontend/Как сделать (База, декор).md",
+    "Programming/Flutter/Frontend/SnackBar.md",
+    "Cache/Без имени.png",
+    "Daily/2024-06-15.md",
+    "Cache/Снимок.png",
+    "Cache/Снимок2.png",
+    "Cache/Снимок2 1.png",
+    "Programming/Flutter/Frontend/Без названия",
+    "Programming/Projects/Бюджет для граждан",
+    "Programming/Projects",
+    "Programming/Flutter/Frontend/Навигация.md",
+    "Programming/Flutter/Dart/Особенности переменных Dart.md",
+    "Programming/Flutter/Dart",
+    "Daily/Без названия.md",
+    "Programming/Flutter/Frontend/Общая тема в проекте.md",
+    "Programming/Flutter/Один стиль.md",
+    "Programming/Flutter/Backend",
+    "Programming/Flutter/Back",
+    "Programming/Основы Python/Без названия.canvas"
+  ]
+}
